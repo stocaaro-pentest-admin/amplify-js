@@ -3,7 +3,7 @@ name: Push - release for feature preid
 on:
   push:
     branches:
-      # Change this to your branch name where "example-preid" corresponds to the preid you want your changes released on
+      # xChange this to your branch name where "example-preid" corresponds to the preid you want your changes released on
       - feat/preid-example/main
 
 jobs:
